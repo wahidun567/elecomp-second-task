@@ -1,0 +1,17 @@
+.table > thead > tr > * {
+    vertical-align: middle;
+    text-align: center;
+}
+.table > tbody > tr > * {
+    vertical-align: middle;
+    text-align: center;
+}
+.navbar{
+    position: relative;
+}
+.waw{
+    transition: 0.8s;
+    font-weight: 450;
+    font-family:sans-serif;
+    letter-spacing: 2px;
+}
